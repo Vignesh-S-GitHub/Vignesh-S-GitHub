@@ -43,8 +43,8 @@ I build dependable data pipelines and useful products—from medallion-style ana
 
 ## GitHub at a glance
 
-- **17 public repositories** · **41 stars** · **191 contributions** in the last year
-- Most of my work connects data platforms, automation, and practical product ideas.
+- Public portfolio spanning data engineering, automation, and product development.
+- Recent activity centers on the LinkBox product and data platform projects.
 
 > I like turning messy inputs into clear, dependable systems.
 
