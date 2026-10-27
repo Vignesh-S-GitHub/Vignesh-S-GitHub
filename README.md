@@ -2,79 +2,71 @@
 
 # 👋 Vignesh Shanmugam
 
-### Data Engineer · Analytics Builder · Practical AI
-
-Turning raw data into useful systems—and everyday ideas into working products.
+**Data engineering, practical applications, and useful everyday tools.**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
-![Polars](https://img.shields.io/badge/Polars-0075FF?style=flat-square&logo=polars&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-[Explore my repositories](https://github.com/Vignesh-S-GitHub?tab=repositories) · [Data projects](#-data-engineering) · [Apps & tools](#-apps--tools)
+[Repositories](https://github.com/Vignesh-S-GitHub?tab=repositories) · [Data projects](#data-engineering) · [Web apps](#web-apps-and-tools) · [Learning projects](#learning-and-prototypes)
 
 </div>
-
-## 🧭 About me
-
-I build data pipelines, explore analytics, and create practical tools with Python, SQL, and web technologies. My portfolio combines **cloud data integration**, **layered data processing**, and **applications that solve everyday problems**.
-
-- ☁️ Building hands-on experience with Azure data workflows and OCI object storage.
-- 🧱 Working with ingestion, validation, transformation, and Delta Lake tables.
-- 🤖 Exploring Gemini-powered tools and language models that run in the browser.
-- 🎨 Creating usable interfaces with React, FastAPI, Streamlit, and lightweight web apps.
-
-## 📊 Data engineering
-
-| Project | What you'll find |
-|---|---|
-| [🎬 CineLake · IMDb Analytics](https://github.com/Vignesh-S-GitHub/cinelake-imdb-analytics) | IMDb ingestion and Bronze/Silver transformations with Polars, Delta Lake, OCI, and GitHub Actions. Gold analytics are in progress. |
-| [☁️ Azure Data Engineering Portfolio](https://github.com/Vignesh-S-GitHub/Data-Engineering-Azure-Portfolio) | On-premises SQL Server → Azure SQL with ADF, Self-Hosted Integration Runtime, ARM templates, and execution screenshots. |
-| [📚 Common Portfolio](https://github.com/Vignesh-S-GitHub/Common_Portfolio_Repository) | Airflow pipelines, notebooks, database applications, scraping utilities, and learning experiments. |
-
-## 🛠️ Apps & tools
-
-| Project | Purpose | Stack |
-|---|---|---|
-| [📦 LinkBox](https://github.com/Vignesh-S-GitHub/linkbox_repo) | Temporary shared downloads, file browsing, supported media playback, and expiry management | React · TypeScript · Cloudflare Workers · D1 · Seedr |
-| [🔖 Bookmark Organizer](https://github.com/Vignesh-S-GitHub/Browser-bookmark-Organizer) | Import/export and organize bookmarks, with optional browser-local AI suggestions | React · FastAPI · SQLite · Transformers.js |
-| [📁 FileFlow](https://github.com/Vignesh-S-GitHub/FileFlow-Intelligent-Organizer) | Suggest descriptive filenames and organize files into categories | Python · Streamlit · Google Gemini |
-| [🪔 Sadangu Sampradayam](https://github.com/Vignesh-S-GitHub/sadangu-sampradayam) | Tamil-first ceremony bookings, checklists, customers, and payment records | Flet · FastAPI · Supabase PostgreSQL |
-| [📝 Form Studio](https://github.com/Vignesh-S-GitHub/Form-Studio) | Visual form templates, a linked filler, and PDF/image exports | HTML · CSS · JavaScript · PWA |
-| [🌱 Life Canvas](https://github.com/Vignesh-S-GitHub/Life-Canvas) | Explore time through life grids, milestones, goals, and charts | JavaScript · Canvas · SVG · PWA |
-
-<details>
-<summary><b>🌿 More projects and work in progress</b></summary>
-
-- [Healthy Food](https://github.com/Vignesh-S-GitHub/healthy-food) — a Chennai-friendly daily meal guide.
-- [Job Search](https://github.com/Vignesh-S-GitHub/Job-Search) — a focused dashboard for Azure Data Engineering searches.
-- [BookOnTime](https://github.com/Vignesh-S-GitHub/bookontime) — a local-first booking-window planner.
-- [My Routine](https://github.com/Vignesh-S-GitHub/my-routine) — an early Android routine companion scaffold with Kotlin and Jetpack Compose.
-- [Cine App](https://github.com/Vignesh-S-GitHub/cine-app) — an early cinema information app and IMDb pipeline scaffold.
-
-</details>
-
-## 🧰 Technologies used across my projects
-
-| Area | Tools and technologies |
-|---|---|
-| Languages | Python, SQL, TypeScript, JavaScript; exploring Kotlin |
-| Data | Polars, PyArrow, Delta Lake, DuckDB, Airflow |
-| Cloud | Azure Data Factory, Azure SQL, OCI Object Storage, Cloudflare |
-| APIs & apps | FastAPI, Flask, Streamlit, React, Flet |
-| Storage | PostgreSQL, SQLite, Cloudflare D1 |
-| AI experiments | Google Gemini, Transformers.js and browser-local models |
-| Delivery | GitHub Actions, Docker, uv, Vite, PWA tooling |
-
-Each repository documents its own setup and current scope. This portfolio includes working tools, learning labs, and projects still under development.
 
 ---
 
-<div align="center">
+I build data pipelines, explore analytics, and create applications with Python, SQL, and web technologies. This profile highlights the projects in my public repositories, with working features and unfinished stages described separately.
 
-**I enjoy turning messy inputs into clear, useful systems.**
+<a id="data-engineering"></a>
 
-Thanks for visiting—explore a project, open an issue, or connect through GitHub.
+## 📊 Data engineering
 
-</div>
+| Project | What to explore | Current scope |
+|---|---|---|
+| [☁️ Azure Data Engineering Portfolio](https://github.com/Vignesh-S-GitHub/Data-Engineering-Azure-Portfolio) | SQL Server → Azure SQL with ADF/SHIR, ARM exports, and execution screenshots | Implemented migration lab |
+| [🎞️ CineLake](https://github.com/Vignesh-S-GitHub/cinelake-imdb-analytics) | IMDb ingestion, Polars, and local Delta Lake | Bronze writes implemented; Silver validation/transforms, Gold/OCI/automation unfinished |
+| [📚 Common Portfolio](https://github.com/Vignesh-S-GitHub/Common_Portfolio_Repository) | Kafka/PostgreSQL experiments, Flask apps, notebooks, and SQL notes | Independent learning projects |
+
+<a id="web-apps-and-tools"></a>
+
+## 🛠️ Web apps and tools
+
+| Project | Purpose | Main technologies |
+|---|---|---|
+| [📈 NextRate](https://github.com/Vignesh-S-GitHub/Next-Rate) | Indian gold/silver references, history, and experimental estimates | JavaScript · Pages · Workers · D1 |
+| [📅 BookDay](https://github.com/Vignesh-S-GitHub/BookDay) | India booking-date planning, holidays, and calendar exports | FastAPI · HTMX · Python Workers |
+| [🎟️ BookOnTime](https://github.com/Vignesh-S-GitHub/bookontime) | Local booking-opening planner, PWA, and offline Android build | React · TypeScript · Capacitor |
+| [🏢 Hybrid Office Tracker](https://github.com/Vignesh-S-GitHub/hybrid_office_tracker_calendar) | Attendance planning, optional account sync, and train reminders | React · Workers · D1 |
+| [📦 LinkBox](https://github.com/Vignesh-S-GitHub/linkbox_repo) | Temporary shared downloads and supported media playback | React · Workers · D1 · Seedr |
+| [🔖 Bookmark Organizer](https://github.com/Vignesh-S-GitHub/Browser-bookmark-Organizer) | Import/export bookmarks and browser-local AI suggestions | React · FastAPI · SQLite |
+| [📁 FileFlow](https://github.com/Vignesh-S-GitHub/FileFlow-Intelligent-Organizer) | Content-based filenames and category folders | Python · Streamlit · Gemini |
+| [📝 Form Studio](https://github.com/Vignesh-S-GitHub/Form-Studio) | Form templates, a linked filler, and PDF/image exports | HTML · CSS · JavaScript |
+| [🌱 Life Canvas](https://github.com/Vignesh-S-GitHub/Life-Canvas) | Life grids, milestones, goals, and charts | JavaScript · Canvas · SVG |
+| [🍽️ Healthy Food](https://github.com/Vignesh-S-GitHub/healthy-food) | South Indian meal ideas and buying guidance | Static JavaScript app |
+| [🔎 Job Search](https://github.com/Vignesh-S-GitHub/Job-Search) | Reusable search links for five job platforms | HTML · CSS · JavaScript |
+
+<a id="learning-and-prototypes"></a>
+
+## 🌿 Learning and prototypes
+
+- [Cine App](https://github.com/Vignesh-S-GitHub/cine-app) — IMDb-to-DuckDB/Parquet scripts with an unfinished API scaffold.
+- [My Routine](https://github.com/Vignesh-S-GitHub/my-routine) — a Kotlin/Compose Today-screen prototype; persistence and reminders are planned.
+- [LinkedIn Network Builder](https://github.com/Vignesh-S-GitHub/Linkedin-Network-Build) — a local Flask/Selenium experiment with manual sign-in and platform-dependent behavior.
+
+## 🧰 Technologies across the portfolio
+
+| Area | Tools used in these repositories |
+|---|---|
+| Languages | Python, SQL, TypeScript, JavaScript, Kotlin |
+| Data processing | Polars, PyArrow, Delta Lake, DuckDB, Kafka, Airflow experiments |
+| Cloud integration | Azure Data Factory, Azure SQL, Self-Hosted Integration Runtime |
+| APIs and interfaces | FastAPI, Flask, Streamlit, React, HTMX, Jetpack Compose |
+| Storage | PostgreSQL, SQLite, Cloudflare D1, browser-local storage |
+| AI experiments | Gemini and browser-local Transformers.js models |
+| Delivery | GitHub Actions, Docker, uv, Vite, Cloudflare, PWA tooling |
+
+## 🤝 Explore or contribute
+
+Each project README explains its setup, implementation status, and limitations. Open an issue in the relevant repository with a concrete question, reproducible problem, or focused improvement.
+
+<p align="center"><sub>From raw inputs to clearer systems and useful tools.</sub></p>
